@@ -32,8 +32,8 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "Camenia"
+    subtitle = "How you perceive the world partially determines how you will act in the world"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
